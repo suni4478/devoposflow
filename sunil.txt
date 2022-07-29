@@ -3,4 +3,8 @@ Please add one more row to table
 Hi this is vaibhavi working on oops project
 hi this is prema.
 hi this is swetha.
+<<<<<<< HEAD
 hi this is malathi.
+=======
+hi hellooo namasthe 
+>>>>>>> f496baa027d45ebacec4ad9cfa235f3efc14dc82
