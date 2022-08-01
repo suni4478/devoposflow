@@ -1,21 +1,13 @@
 hi i am working on MWJIT
 Please add one more row to table 
 Hi this is vaibhavi working on oops project
-<<<<<<< HEAD
+
 hi helloo namasthe. 
 hii chaitra
 hiiiiiiiiiiiiiiiiiiii
-=======
 hi this is prema.
 hi this is swetha.
-<<<<<<< HEAD
 hi this is malathi.
-=======
 hi hellooo namasthe 
->>>>>>> f496baa027d45ebacec4ad9cfa235f3efc14dc82
-<<<<<<< HEAD
 Hi hello mommy and daddy.
-=======
 hi helloo mom and dad
->>>>>>> 10602957e7c9756ea4580ec84cb8d9e614945394
->>>>>>> 7f70936c96b66af36bfcc09fd82627d9c4f7fbd2
