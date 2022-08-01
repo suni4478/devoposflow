@@ -9,4 +9,9 @@ hi this is kiran.
 hi hellooooooo
 hellooooooooo
 hellooo vinay
+<<<<<<< HEAD
 helloooo mom & daddy.
+=======
+hellooo beboooo
+hellooo  benbbbooooo
+>>>>>>> 206b0ccbd05ecc2f517f192b857af5ad1a10d11d
